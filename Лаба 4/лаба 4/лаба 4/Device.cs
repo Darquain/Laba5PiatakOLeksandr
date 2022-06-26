@@ -15,6 +15,8 @@ namespace Lab4
         public void TurnOff()
         {
             Console.WriteLine("Turning off...");
+            Console.WriteLine("Turning on...");
+            Console.WriteLine("Turning off...");
         }
         public void Reboot()
         {
