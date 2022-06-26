@@ -1,0 +1,9 @@
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 4\лаба 4\лаба 4\bin\Debug\лаба 4.exe.config
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 4\лаба 4\лаба 4\bin\Debug\лаба 4.exe
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 4\лаба 4\лаба 4\bin\Debug\лаба 4.pdb
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 4\лаба 4\лаба 4\obj\Debug\лаба 4.csproj.AssemblyReference.cache
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 4\лаба 4\лаба 4\obj\Debug\лаба_4.Properties.Resources.resources
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 4\лаба 4\лаба 4\obj\Debug\лаба 4.csproj.GenerateResource.cache
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 4\лаба 4\лаба 4\obj\Debug\лаба 4.csproj.CoreCompileInputs.cache
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 4\лаба 4\лаба 4\obj\Debug\лаба 4.exe
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 4\лаба 4\лаба 4\obj\Debug\лаба 4.pdb

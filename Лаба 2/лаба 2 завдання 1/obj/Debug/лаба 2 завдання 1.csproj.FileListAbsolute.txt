@@ -1,0 +1,18 @@
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 1\лаба 2 завдання 1\bin\Debug\лаба 2 завдання 1.exe.config
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 1\лаба 2 завдання 1\bin\Debug\лаба 2 завдання 1.exe
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 1\лаба 2 завдання 1\bin\Debug\лаба 2 завдання 1.pdb
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 1\лаба 2 завдання 1\obj\Debug\лаба 2 завдання 1.csproj.AssemblyReference.cache
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 1\лаба 2 завдання 1\obj\Debug\лаба_2_завдання_1.Properties.Resources.resources
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 1\лаба 2 завдання 1\obj\Debug\лаба 2 завдання 1.csproj.GenerateResource.cache
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 1\лаба 2 завдання 1\obj\Debug\лаба 2 завдання 1.csproj.CoreCompileInputs.cache
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 1\лаба 2 завдання 1\obj\Debug\лаба 2 завдання 1.exe
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 1\лаба 2 завдання 1\obj\Debug\лаба 2 завдання 1.pdb
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 2\лаба 2 завдання 1\bin\Debug\лаба 2 завдання 1.exe.config
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 2\лаба 2 завдання 1\bin\Debug\лаба 2 завдання 1.exe
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 2\лаба 2 завдання 1\bin\Debug\лаба 2 завдання 1.pdb
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 2\лаба 2 завдання 1\obj\Debug\лаба 2 завдання 1.csproj.AssemblyReference.cache
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 2\лаба 2 завдання 1\obj\Debug\лаба_2_завдання_1.Properties.Resources.resources
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 2\лаба 2 завдання 1\obj\Debug\лаба 2 завдання 1.csproj.GenerateResource.cache
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 2\лаба 2 завдання 1\obj\Debug\лаба 2 завдання 1.csproj.CoreCompileInputs.cache
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 2\лаба 2 завдання 1\obj\Debug\лаба 2 завдання 1.exe
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 2\лаба 2 завдання 1\obj\Debug\лаба 2 завдання 1.pdb

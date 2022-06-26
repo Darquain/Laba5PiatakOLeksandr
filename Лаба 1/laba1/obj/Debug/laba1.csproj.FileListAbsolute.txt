@@ -1,0 +1,4 @@
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 1\laba1\obj\Debug\laba1.csproj.AssemblyReference.cache
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 1\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 1\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache

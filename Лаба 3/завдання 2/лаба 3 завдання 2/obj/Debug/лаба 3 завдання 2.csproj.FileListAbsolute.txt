@@ -1,0 +1,9 @@
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 3\завдання 1\лаба 3 завдання 2\bin\Debug\лаба 3 завдання 2.exe.config
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 3\завдання 1\лаба 3 завдання 2\bin\Debug\лаба 3 завдання 2.exe
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 3\завдання 1\лаба 3 завдання 2\bin\Debug\лаба 3 завдання 2.pdb
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 3\завдання 1\лаба 3 завдання 2\obj\Debug\лаба 3 завдання 2.csproj.AssemblyReference.cache
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 3\завдання 1\лаба 3 завдання 2\obj\Debug\лаба_3_завдання_2.Properties.Resources.resources
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 3\завдання 1\лаба 3 завдання 2\obj\Debug\лаба 3 завдання 2.csproj.GenerateResource.cache
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 3\завдання 1\лаба 3 завдання 2\obj\Debug\лаба 3 завдання 2.csproj.CoreCompileInputs.cache
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 3\завдання 1\лаба 3 завдання 2\obj\Debug\лаба 3 завдання 2.exe
+C:\Users\maked\OneDrive\Рабочий стол\Програмування\Лаба 3\завдання 1\лаба 3 завдання 2\obj\Debug\лаба 3 завдання 2.pdb
